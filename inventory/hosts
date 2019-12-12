@@ -1,9 +1,9 @@
 [frontends]
-frontend1.${GUID}.internal ansible_ssh_host=frontend1.${GUID}.example.opentlc.com
+frontend1.c4d7.internal ansible_ssh_host=frontend1.c4d7.example.opentlc.com
 
 [apps]
-app1.${GUID}.internal ansible_ssh_host=app1.${GUID}.example.opentlc.com
-app2.${GUID}.internal ansible_ssh_host=app2.${GUID}.example.opentlc.com
+app1.c4d7.internal ansible_ssh_host=app1.c4d7.example.opentlc.com
+app2.c4d7.internal ansible_ssh_host=app2.c4d7.example.opentlc.com
 
 [appdbs]
-appdb1.${GUID}.internal ansible_ssh_host=appdb1.${GUID}.example.opentlc.com
+appdb1.c4d7.internal ansible_ssh_host=appdb1.c4d7.example.opentlc.com
